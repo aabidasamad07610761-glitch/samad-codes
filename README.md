@@ -1,43 +1,33 @@
 # Abdul Samad
 
-### Developer • AI & Software Engineering
+**Student developer · Python & C++ · AI · Systems · Cybersecurity**
 
-I build software, explore how systems work, and turn ideas into practical projects.
+I learn by building. I’m interested in how software works beneath the surface—from programming fundamentals and systems to machine learning—and I use projects to turn concepts into working code.
 
-My interests include **Python, C++, artificial intelligence, cybersecurity, and software engineering**. I enjoy learning by building, experimenting, and improving projects through clean code and thoughtful design.
+## About
 
----
+- 🧑‍💻 Exploring software engineering, Python, and C++
+- 🤖 Building and studying machine-learning systems
+- 🔐 Learning cybersecurity through responsible, defensive practice
+- 🧪 Experimenting with projects and documenting what I learn
 
-## 🧭 About
+## Tech & interests
 
-- 💻 Interested in software development and systems programming
-- 🤖 Exploring AI and machine learning
-- 🔐 Learning cybersecurity with a focus on responsible, defensive practice
-- 🧪 Building projects to strengthen my engineering skills
-- 📚 Always learning and documenting what I discover
+**Languages:** Python · C++ · JavaScript · HTML · CSS  
+**Exploring:** AI/ML · Systems programming · Computer science · Cybersecurity
 
-## 🛠️ Technologies & Interests
+## Projects
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
+### NEXUS-CODE — in development
+A from-scratch, coding-focused language-model project. The current design target is approximately **10 million parameters**, with a NumPy/CPU-oriented implementation. The project is being organized and validated before public release.
 
-**Exploring:** AI/ML · Cybersecurity · Systems · Computer Science
+> Project links and demos will be added here as they become public and ready to use.
 
-## 🚀 Projects
-
-> Project highlights will be added as repositories reach a documented, showcase-ready state.
-
-Explore all my repositories: **[github.com/aabidasamad07610761-glitch](https://github.com/aabidasamad07610761-glitch?tab=repositories)**
-
-## 📫 Connect
+## Find me
 
 - GitHub: [@aabidasamad07610761-glitch](https://github.com/aabidasamad07610761-glitch)
+- [Browse my repositories](https://github.com/aabidasamad07610761-glitch?tab=repositories)
 
 ---
 
-<sub>Learning, building, and improving—one project at a time.</sub>
+<sub>Building, learning, and improving—one project at a time.</sub>
